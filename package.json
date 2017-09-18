@@ -1,9 +1,9 @@
 {
-  "name": "now-ui",
-  "version": "0.1.0",
-  "description": "A Vue.js project",
-  "author": "cristijora <cristian.jora@corebuild.eu>",
-  "private": true,
+  "name": "vue-now-ui",
+  "version": "0.0.1",
+  "description": "Now UI Toolkit Components for Vue.js 2",
+  "author": "Daksh Miglani <hello@dak.sh>",
+  "private": false,
   "scripts": {
     "build:file": "node build/bin/build-entry.js & node build/bin/version.js",
     "dev": "npm run build:file && cooking watch -c build/cooking.demo.js -p",
